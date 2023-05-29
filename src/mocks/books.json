@@ -1,0 +1,12 @@
+[
+  {
+    "image": "src/img/swift_book.png",
+    "isFavorite": true,
+    "price": 10.99
+  },
+  {
+    "image": "src/img/swift_book.png",
+    "isFavorite": false,
+    "price": 5.99
+  }
+]
